@@ -37,6 +37,7 @@ const Common = (props) => {
                     </div>
                 </div>
             </section>
+            <br/>
         </>
     )
 }

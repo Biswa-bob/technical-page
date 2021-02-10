@@ -11,6 +11,7 @@ const About = () => {
            visit = './contact'
            btname='Contact Us'
         />
+        <br/>
         </>
     )
 }
